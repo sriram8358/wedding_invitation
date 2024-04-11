@@ -608,22 +608,22 @@ file:///D:/Sriram/personal/html/zisum-wedding-main/zisum-wedding-main/assets/css
 }
 
 .tile__img {
-    max-width: 65%;
-    text-align: center;
-    height: auto;
-    object-fit: cover;
+  max-width: 65%;
+  text-align: center;
+  height: auto;
+  object-fit: cover;
 }
 .happiness {
-  color: #874562;
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 10px;
+color: #874562;
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+margin-bottom: 10px;
 }
 .welcome_note {
-  color: #564861;
-  background-color: unset;
-  font-size: 16px;
-  margin-top: 20px;
-  text-align: center;
+color: #564861;
+background-color: unset;
+font-size: 16px;
+margin-top: 20px;
+text-align: center;
 }
