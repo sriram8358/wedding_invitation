@@ -606,3 +606,10 @@ file:///D:/Sriram/personal/html/zisum-wedding-main/zisum-wedding-main/assets/css
     padding: 15px;
   }
 }
+
+.tile__img {
+    max-width: 65%;
+    text-align: center;
+    height: auto;
+    object-fit: cover;
+}
